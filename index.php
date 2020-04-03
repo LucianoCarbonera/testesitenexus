@@ -15,7 +15,7 @@
     <div class="container mt-4">
         <div class="card bg-success">
             <div class="card text-center">
-            <h2>Simular Invetimentos</h2>
+            <h2>Nexus Site</h2>
                 </div>
 
                 <form  method="GET" action="envio.php" >
@@ -24,7 +24,7 @@
                             <div class="row">
                                 <div class="col-md-2"></div>
                                 <div class="col-md-8">
-                                    <h5>Valor Inicial:</h5>
+                                    
                                     <input type="text" class="form-control" name="valor" required><br>
                                     
                                 </div>
