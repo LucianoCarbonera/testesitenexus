@@ -1,7 +1,5 @@
 <?php
 
-teste 123
-  
-  aqui 1233
+echo "Nada é melhor que este time";
 
 ?>
